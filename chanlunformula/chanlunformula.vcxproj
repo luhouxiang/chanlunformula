@@ -130,12 +130,12 @@
   <ItemGroup>
     <ClCompile Include="CFormularComputeParent.cpp" />
     <ClCompile Include="chanlunformula.cpp" />
-    <ClCompile Include="CsvFile.cpp" />
+    <ClCompile Include="csv_file.cpp" />
     <ClCompile Include="time_util.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CFormularComputeParent.h" />
-    <ClInclude Include="CsvFile.h" />
+    <ClInclude Include="csv_file.h" />
     <ClInclude Include="time_util.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

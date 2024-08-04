@@ -21,7 +21,7 @@
     <ClCompile Include="CFormularComputeParent.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="CsvFile.cpp">
+    <ClCompile Include="csv_file.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="time_util.cpp">
@@ -32,7 +32,7 @@
     <ClInclude Include="CFormularComputeParent.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="CsvFile.h">
+    <ClInclude Include="csv_file.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="time_util.h">
